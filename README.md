@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atharva Kulkarni
-- 👀 I’m interested in Machine Learning, Data Science and Data Analytics
+- 👀 I’m interested in Software Development, Machine Learning and Data Science
 - 🌱 I’m currently a CS grad student at Indiana University Bloomington
 - 📫 You can reach me at atharva246@gmail.com
 
